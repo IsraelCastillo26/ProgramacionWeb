@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="IsraelPalma">
+<title>Practica 5</title>
+</head>
+
+<body>
+<h1>Formularios</h1>
+<h2> Formulario de registro de Alumnos de Nuevo Ingreso </h2>
+<form>
+
+	<p>Nombre completo: <input type="text" name="nombrecompleto"></p>
+	<p>Correo electronico: <input type="text" name="correoelectronico"></p>
+	<p>Contraseña: <input type="password" name="contraseña"></p>
+
+
+	<p>
+	Genero:<br>
+	<input type="radio" value="hombre" name="genero"/>Hombre <br>
+	<input type="radio" value="mujer" name="genero"/>Mujer <br>
+	<input type="radio" value="otro" name="genero"/>Otro <br>
+	</p>
+
+	<p>
+	Intereses<br>
+	<input type="checkbox" name="deportes"> Deportes <br>
+	<input type="checkbox" name="musica"> Mùsica <br>
+	<input type="checkbox" name="tecnologia"> Tecnologìa <br>
+	</p>
+
+	<p>
+	Carrera a la que aspiras:
+	<select>
+	<option selected="selected">Ingenieria en Sistemas Computacionales</option>
+	<option>Ingenieria Civil</option>
+	<option>Arquitectura</option>
+	<option>Ingenieria en Mecatronica</option>
+	</select>
+	</p>
+
+	
+	<p>
+	Comentarios adicionales:<br>
+	<textarea rows="10" cols="50" name="mensaje"></textarea>
+	</p>
+	
+	<input type="submit" value="Enviar Formulario"/>
+	<input type="reset" value="Restablecer Formulario"/>
+	
+</form>
+
+
+</body>
+
+</html>
