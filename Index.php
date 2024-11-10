@@ -40,11 +40,11 @@
   <h2> Practicas PHP </h2>
   <p><b> Práctica 1 </b></p> 
 
-  <a href=""> Práctica 1 </a> <br>
+  <a href="Practica 1.php"> Práctica 1 </a> <br>
 
   <p><b> Práctica 2 </b></p> 
 
-  <a href=""> Práctica 2 </a> <br>
+  <a href="Practica 2.php"> Práctica 2 </a> <br>
   
 </body>
 
