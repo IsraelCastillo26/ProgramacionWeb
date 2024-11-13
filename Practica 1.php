@@ -5,6 +5,7 @@
 
 <body>
 <?php
+echo "<b> Practica 1 <br> Palma Castillo Israel </b> <br><br>";
 ECHO "Hola! Este es mi primer script en PHP <BR>";
 
 //Esto es una linea de comentario

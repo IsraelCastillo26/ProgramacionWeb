@@ -5,6 +5,7 @@
 
 <body>
 <?php
+echo "<b> Practica 2 <br> Palma Castillo Israel </b> <br><br>";
 function Mensaje (){
 echo "<br>";
 echo "Hola mundo <br>";
