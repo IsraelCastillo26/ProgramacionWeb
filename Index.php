@@ -49,6 +49,14 @@
   <p><b> Práctica 3 </b></p> 
 
   <a href="Practica 3.php"> Práctica 3 </a> <br>
+
+  <p><b> Práctica 4 </b></p> 
+
+  <a href="Practica 4.php"> Práctica 4 </a> <br>
+
+  <p><b> Práctica 5 </b></p> 
+
+  <a href="Practica 5.php"> Práctica 5 </a> <br>
   
 </body>
 
