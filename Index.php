@@ -68,7 +68,7 @@
 
   <p><b> Práctica 8 </b></p> 
 
-  <a href=""> Práctica 8 </a> <br>
+  <a href="https://i.postimg.cc/8k2q7Nnh/Whats-App-Image-2024-11-22-at-12-46-35-PM.jpg"> Práctica 8 </a> <br>
 
   <p><b> Práctica 9 </b></p> 
 
