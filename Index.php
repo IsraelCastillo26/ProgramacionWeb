@@ -65,6 +65,14 @@
   <p><b> Práctica 7 </b></p> 
 
   <a href="https://i.postimg.cc/wx0cZYZ5/Whats-App-Image-2024-11-16-at-12-21-21-PM.jpg"> Práctica 7 </a> <br>
+
+  <p><b> Práctica 8 </b></p> 
+
+  <a href=""> Práctica 8 </a> <br>
+
+  <p><b> Práctica 9 </b></p> 
+
+  <a href="Practica 9.php"> Práctica 9 </a> <br>
   
 </body>
 
