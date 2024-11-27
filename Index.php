@@ -73,6 +73,10 @@
   <p><b> Práctica 9 </b></p> 
 
   <a href="Practica 9.php"> Práctica 9 </a> <br>
+
+  <p><b> Práctica 10 </b></p> 
+
+  <a href="https://i.postimg.cc/xCrdT2cw/IMG-20241127-WA0024.jpg"> Práctica 10 </a> <br>
   
 </body>
 
